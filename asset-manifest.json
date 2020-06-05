@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pantallas-VICOSERTRA/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Pantallas-VICOSERTRA/static/js/main.1b541624.chunk.js",
+    "main.js.map": "/Pantallas-VICOSERTRA/static/js/main.1b541624.chunk.js.map",
+    "runtime-main.js": "/Pantallas-VICOSERTRA/static/js/runtime-main.6dd39601.js",
+    "runtime-main.js.map": "/Pantallas-VICOSERTRA/static/js/runtime-main.6dd39601.js.map",
+    "static/js/2.fab85eac.chunk.js": "/Pantallas-VICOSERTRA/static/js/2.fab85eac.chunk.js",
+    "static/js/2.fab85eac.chunk.js.map": "/Pantallas-VICOSERTRA/static/js/2.fab85eac.chunk.js.map",
+    "index.html": "/Pantallas-VICOSERTRA/index.html",
+    "precache-manifest.cf1050ac987cac104cd76febf72ae986.js": "/Pantallas-VICOSERTRA/precache-manifest.cf1050ac987cac104cd76febf72ae986.js",
+    "service-worker.js": "/Pantallas-VICOSERTRA/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Pantallas-VICOSERTRA/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fab85eac.chunk.js.LICENSE.txt": "/Pantallas-VICOSERTRA/static/js/2.fab85eac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dd39601.js",
+    "static/js/2.fab85eac.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1b541624.chunk.js"
+  ]
+}
